@@ -1,0 +1,28 @@
+header{
+    background: pink;
+    color: #fff;
+    width: 100%;
+    height: 150px;
+}
+.contact{
+    color:rgb(186, 76, 94);
+}
+footer{
+    background: pink;
+    width: 100%;
+    height: 150px;
+    background:pink;
+}
+div{
+    border: solid 1px;
+    background: rgb(236, 236, 183);
+   
+}
+img{
+    width: 200px;
+    height: 200px;
+    padding-left: 400px;
+    padding-bottom: 500 px;
+    align-items: center;
+    
+}
